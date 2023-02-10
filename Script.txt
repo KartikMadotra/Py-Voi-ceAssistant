@@ -1,0 +1,7 @@
+A servo motor is a self-contained electrical device, that rotate parts of a machine with high efficiency and with great precision.
+
+The output shaft of this motor can be moved to a particular angle, position and velocity that a regular motor does not have.
+
+The Servo Motor utilizes a regular motor and couples it with a sensor for positional feedback.
+
+The controller is the most important part of the Servo Motor designed and used specifically for this purpose.
